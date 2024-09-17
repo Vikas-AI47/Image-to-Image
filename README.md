@@ -23,14 +23,12 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to set up the environment and run the workflow 
 
 ### Step 1: Clone this repository 
-''bash
 
 git clone <https://github.com/Vikas-AI47/Image-to-Image.git> 
 
 cd Image-to-Image 
-''bash
 ## Setup Instructions
-ComfyUI Manager  
+  **ComfyUI Manager**  
 
 ComfyUI Manager provides seamless installation of models and custom nodes.  
 
