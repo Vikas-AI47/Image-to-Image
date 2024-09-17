@@ -23,26 +23,20 @@ Before you begin, ensure you have met the following requirements:
 Follow these steps to set up the environment and run the workflow 
 
 ### Step 1: Clone this repository 
+''bash
 
-```bash 
-
-git clone <l> 
+git clone <https://github.com/Vikas-AI47/Image-to-Image.git> 
 
 cd Image-to-Image 
-
-## Setup Instructions 
-
-## ComfyUI Manager  
+''bash
+## Setup Instructions
+ComfyUI Manager  
 
 ComfyUI Manager provides seamless installation of models and custom nodes.  
 
 Download link : https://github.com/ltdrdata/ComfyUI-Manager.git 
-
-### Required Model Files  
-
-The following models are required for this workflow but are not included in the repository due to size limitations. Please download them using the links below and place them in the appropriate directories. 
-
-  
+Required Model Files  
+. 
 
 1. **IDM-VTON Model**: 
 
